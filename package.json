@@ -8,6 +8,7 @@
     "test": "tests"
   },
   "scripts": {
+    "start": "parcel examples/index.html",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

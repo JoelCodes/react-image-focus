@@ -1,0 +1,38 @@
+{
+  "name": "react-image-focus",
+  "version": "1.0.0",
+  "description": "React wrapper for the image-focus library",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoelCodes/react-image-focus.git"
+  },
+  "keywords": [
+    "react",
+    "image-focus"
+  ],
+  "author": "Joel Shinness <me@joelshinness.com> (http://joelshinness.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoelCodes/react-image-focus/issues"
+  },
+  "homepage": "https://github.com/JoelCodes/react-image-focus#readme",
+  "dependencies": {
+    "image-focus": "^1.1.0"
+  },
+  "devDependencies": {
+    "@types/react": "^16.9.5",
+    "@types/react-dom": "^16.9.1",
+    "parcel-bundler": "^1.12.4",
+    "react": "^16.10.2",
+    "react-dom": "^16.10.2",
+    "typescript": "^3.6.4"
+  }
+}
